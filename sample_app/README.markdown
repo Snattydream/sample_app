@@ -1,3 +1,11 @@
+== Ruby on Rails Tutorial: sample application
+
+This is the sample application for
+[*Ruby on Rails Tutorial: Learn Rails by Example*](http://railstutorial.org/)
+by [Michael Hartl](http://michaelhartl.com/).
+
+Then change it to use the markdown extension and commit the changes:
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
